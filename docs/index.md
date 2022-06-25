@@ -6,4 +6,4 @@
 
 
 ## Recent Updates
-1. [Harvard Summer School - Session 1](https://bowinn.github.com/MyReflection/)
+1. [Harvard Summer School - Session 1](https://bowinn.github.io/MyReflection/)
